@@ -11,7 +11,7 @@
 
 | Date | What I Did | Proof |
 |------|-----------|-------|
-| 2026-07-10 | Created this repo, completed Bandit Level 0| [Notes] (notes/bandit-level-0.md) |
+| 2026-07-10 | Created this repo, completed Bandit Level 0| [Notes] (notes/bandit-level-0.md) || 2026-07-10 | Completed Bandit Level 1 (special character filename) | [Notes](notes/bandit-level-1.md) |
 
 ## Skills Building
 - [ ] Linux command line (OverTheWire)
