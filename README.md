@@ -15,6 +15,7 @@
 | 2026-07-10 | Completed Bandit Level 1 (special character filename) | [Notes](notes/bandit-level-1.md) |
 | 2026-07-11 | Completed Bandit Level 2 (spaces + dashes in filename) | [Notes](notes/bandit-level-2.md) |
 | 2026-07-11 | Completed Bandit Level 3 (hidden files) | [Notes](notes/bandit-level-3.md) |
+| 2026-07-11 | Completed Bandit Level 4 (finding human-readable files) | [Notes](notes/bandit-level-4.md) |
 ## Skills Building
 - [ ] Linux command line (OverTheWire)
 - [ ] Python & Bash scripting
