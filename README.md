@@ -20,6 +20,7 @@
 | 2026-07-12 | Completed Bandit Level 6 (search entire filesystem) | [Notes](notes/bandit-level-6.md) |
 | 2026-07-12 | Completed Bandit Level 7 (grep pattern search) | [Notes](notes/bandit-level-7.md) |
 | 2026-07-12 | Completed Bandit Level 8 (sort + uniq -u) | [Notes](notes/bandit-level-8.md) |
+| 2026-07-12 | Completed Bandit Level 9 (strings + grep) | [Notes](notes/bandit-level-9.md) |
 ## Skills Building
 - [ ] Linux command line (OverTheWire)
 - [ ] Python & Bash scripting
