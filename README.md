@@ -18,6 +18,7 @@
 | 2026-07-11 | Completed Bandit Level 4 (finding human-readable files) | [Notes](notes/bandit-level-4.md) |
 | 2026-07-12 | Completed Bandit Level 5 (find by file properties) | [Notes](notes/bandit-level-5.md) |
 | 2026-07-12 | Completed Bandit Level 6 (search entire filesystem) | [Notes](notes/bandit-level-6.md) |
+| 2026-07-12 | Completed Bandit Level 7 (grep pattern search) | [Notes](notes/bandit-level-7.md) |
 ## Skills Building
 - [ ] Linux command line (OverTheWire)
 - [ ] Python & Bash scripting
