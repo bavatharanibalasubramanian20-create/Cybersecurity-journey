@@ -29,7 +29,8 @@
 - [ ] TryHackMe rooms
 
 ## Blog
-[Blog - Coming Soon](#)
+- [10 Linux Commands That Made Me a Better Cybersecurity Beginner](https://hashnode.com/posts/10-linux-commands-that-made-me-a-better-cybersecurity-beginner-lessons-from-overthewire-bandit/6a5699c1550c4979c950f5b7 )
+
 
 ## Contact
 [bavatharanibalasubramanian20@gmail.com]
