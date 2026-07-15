@@ -23,6 +23,7 @@
 | 2026-07-12 | Completed Bandit Level 9 (strings + grep) | [Notes](notes/bandit-level-9.md) |
 | 2026-07-12 | Completed Bandit Level 10 (base64 decode) | [Notes](notes/bandit-level-10.md) |
 | 2026-07-15 | Completed Bandit Level 11 (ROT13 decode with tr) | [Notes](notes/bandit-level-11.md) |
+| 2026-07-15 | Completed Bandit Level 12 (hexdump + multi-layer decompression) | [Notes](notes/bandit-level-12.md) |
 ## Skills Building
 - [ ] Linux command line (OverTheWire)
 - [ ] Python & Bash scripting
