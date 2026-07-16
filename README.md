@@ -25,6 +25,7 @@
 | 2026-07-15 | Completed Bandit Level 11 (ROT13 decode with tr) | [Notes](notes/bandit-level-11.md) |
 | 2026-07-15 | Completed Bandit Level 12 (hexdump + multi-layer decompression) | [Notes](notes/bandit-level-12.md) |
 | 2026-07-15 | Completed Bandit Level 13 (SSH private key auth) | [Notes](notes/bandit-level-13.md) |
+| 2026-07-16 | Completed Bandit Level 14 (netcat port submission) | [Notes](notes/bandit-level-14.md) |
 ## Skills Building
 - [ ] Linux command line (OverTheWire)
 - [ ] Python & Bash scripting
