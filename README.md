@@ -29,6 +29,7 @@
 | 2026-07-16 | Completed Bandit Level 15 (SSL/TLS with openssl) | [Notes](notes/bandit-level-15.md) |
 | 2026-07-17 | Completed Bandit Level 16 (SSL port scan + key extraction) | [Notes](notes/bandit-level-16.md) |
 | 2026-07-17 | Completed Bandit Level 17 (diff comparison) | [Notes](notes/bandit-level-17.md) |
+| 2026-07-17 | Completed Bandit Level 18 (SSH command bypass) | [Notes](notes/bandit-level-18.md) |
 ## Skills Building
 - [ ] Linux command line (OverTheWire)
 - [ ] Python & Bash scripting
