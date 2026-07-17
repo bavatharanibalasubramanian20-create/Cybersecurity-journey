@@ -27,6 +27,7 @@
 | 2026-07-15 | Completed Bandit Level 13 (SSH private key auth) | [Notes](notes/bandit-level-13.md) |
 | 2026-07-16 | Completed Bandit Level 14 (netcat port submission) | [Notes](notes/bandit-level-14.md) |
 | 2026-07-16 | Completed Bandit Level 15 (SSL/TLS with openssl) | [Notes](notes/bandit-level-15.md) |
+| 2026-07-17 | Completed Bandit Level 16 (SSL port scan + key extraction) | [Notes](notes/bandit-level-16.md) |
 ## Skills Building
 - [ ] Linux command line (OverTheWire)
 - [ ] Python & Bash scripting
