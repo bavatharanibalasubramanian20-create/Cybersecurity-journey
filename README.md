@@ -31,6 +31,7 @@
 | 2026-07-17 | Completed Bandit Level 17 (diff comparison) | [Notes](notes/bandit-level-17.md) |
 | 2026-07-17 | Completed Bandit Level 18 (SSH command bypass) | [Notes](notes/bandit-level-18.md) |
 | 2026-07-19 | Completed Bandit Level 19 (setuid privilege escalation) | [Notes](notes/bandit-level-19.md) |
+| 2026-07-19 | Completed Bandit Level 20 (TCP listener + setuid binary) | [Notes](notes/bandit-level-20.md) |
 ## Skills Building
 - [ ] Linux command line (OverTheWire)
 - [ ] Python & Bash scripting
