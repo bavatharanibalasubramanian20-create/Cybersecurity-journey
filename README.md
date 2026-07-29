@@ -35,6 +35,7 @@
 | 2026-07-29 | Completed Bandit Level 21 (cron job analysis) | [Notes](notes/bandit-level-21.md) |
 | 2026-07-29 | Completed Bandit Level 22 (cron script + MD5 hash) | [Notes](notes/bandit-level-22.md) |
 | 2026-07-29 | Completed Bandit Level 23 (wrote exploit script for cron escalation) | [Notes](notes/bandit-level-23.md) |
+| 2026-07-29 | Completed Bandit Level 24 (brute-force 4-digit PIN) | [Notes](notes/bandit-level-24.md) |
 ## Skills Building
 - [ ] Linux command line (OverTheWire)
 - [ ] Python & Bash scripting
