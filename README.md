@@ -33,6 +33,7 @@
 | 2026-07-19 | Completed Bandit Level 19 (setuid privilege escalation) | [Notes](notes/bandit-level-19.md) |
 | 2026-07-19 | Completed Bandit Level 20 (TCP listener + setuid binary) | [Notes](notes/bandit-level-20.md) |
 | 2026-07-29 | Completed Bandit Level 21 (cron job analysis) | [Notes](notes/bandit-level-21.md) |
+| 2026-07-29 | Completed Bandit Level 22 (cron script + MD5 hash) | [Notes](notes/bandit-level-22.md) |
 ## Skills Building
 - [ ] Linux command line (OverTheWire)
 - [ ] Python & Bash scripting
